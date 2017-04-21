@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
 
-    public static final String BASE_URL = "http://192.168.1.1/lottery/webservices.php/";
+    public static final String BASE_URL = "<Your Web Service URL>";
     private static Retrofit retrofit = null;
 
 
